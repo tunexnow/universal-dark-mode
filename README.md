@@ -10,7 +10,7 @@ It auto-detects if a website already has a native dark theme, gives you **two al
 - **Per‑site toggle** + mode via popup.
 - **Shadow DOM aware** (for open roots).
 
-> Built by **Abdulrasaq Babatunde (aka TuNeX)** — free to use & edit.
+> Built by **Abdulrasaq Babatunde (aka TuNeX)** - free to use & edit.
 
 ## Install (Dev / Unpacked)
 1. Download this repository as a ZIP and extract, or `git clone` it.
@@ -50,4 +50,4 @@ tunex-universal-dark-mode/
 - You can expand the **exclude list** in `background.js` or add site-specific rules in `content.js`.
 
 ## License
-MIT — do anything, just keep the attribution.
+MIT - do anything, just keep the attribution.
