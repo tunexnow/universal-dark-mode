@@ -1,5 +1,5 @@
 
-# Universal Dark Mode — TuNeX
+# Universal Dark Mode - TuNeX
 
 Force a clean, readable **dark mode** on (almost) any site.  
 It auto-detects if a website already has a native dark theme, gives you **two algorithms**, and remembers your **per‑site** preference.
